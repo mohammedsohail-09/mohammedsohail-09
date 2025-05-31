@@ -6,8 +6,8 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Cloud and DevOps Projects**
-- 🌱 Learning: **DevSecOps** | **Generative AI**
-- 💬 Ask me about: **Fullstack Development**, **Selenium Testing**, **Cloud/DevSecOps**
+- 🌱 Learning: **DevSecOps** 
+- 💬 Ask me about: **Cloud/DevSecOps**
 - 📫 Reach me at: [er.sohail1047@gmail.com](mailto:er.sohail1047@gmail.com)
 - ⚡ Fun fact: I once wrote a Dockerfile so efficient, it made my coffee before I even thought about needing it. ☕🐳
 
